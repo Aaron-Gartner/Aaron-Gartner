@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I recently graduated from the University of St. Thomas (DEC 2021) with a BS in computer science. I am currently working as a software engineer for Travelers Insurance within their Technology Leadership Development Program. I am also a veteran of the 82nd Airborne Divison. I have a passion to create operational, efficient, and secure software. I have tried and true teamwork and leadership experience. I am highly motivated, attentive to detail, and enthusiastic in my work to produce secure and reliable software. Feel free to connect with me on linkin here: <a>https://www.linkedin.com/in/aaron-gartner-42123b204/</a>. I would like to share my top 3 projects to showcase for my portfolio.
+I recently graduated from the University of St. Thomas (DEC 2021) with a BS in computer science. I am currently working as a software engineer for Travelers Insurance within their Technology Leadership Development Program. I am also a veteran of the 82nd Airborne Divison. I have a passion to create operational, efficient, and secure software. I have tried and true teamwork and leadership experience. I am highly motivated, attentive to detail, and enthusiastic in my work to produce secure and reliable software. Feel free to connect with me on LinkedIn here: <a>https://www.linkedin.com/in/aaron-gartner-42123b204/</a>. I would like to share my top 3 projects to showcase for my portfolio.
 
 
 Project 1:
